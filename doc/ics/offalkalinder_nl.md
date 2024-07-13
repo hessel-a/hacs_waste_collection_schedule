@@ -12,7 +12,7 @@
 
 ## Examples
 
-### Oppach
+### Hallum
 
 ```yaml
 waste_collection_schedule:
